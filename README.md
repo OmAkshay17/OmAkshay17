@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Akshay</h1>
 <h3 align="center">Passionate MERN Stack Developer | Aspiring ML Enthusiast | DSA Problem Solver | Student at Siddaganga Institute of Technology, Tumkur, Karnataka</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img align="center" alt="coding" width="400"src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omakshay17&label=Profile%20views&color=0e75b6&style=flat" alt="omakshay17" /> </p>
 
