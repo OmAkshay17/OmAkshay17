@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Om Akshay</h1>
 <h3 align="center">Passionate MERN Stack Developer | Aspiring ML Enthusiast | DSA Problem Solver | Student at Siddaganga Institute of Technology, Tumkur, Karnataka</h3>
 <div style="text-align: center;">
-  <img alt="coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <!--img alt="coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"-->
+  <img alt="coding" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+  
 </div>
 
 
